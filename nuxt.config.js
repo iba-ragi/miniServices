@@ -41,7 +41,14 @@ module.exports = {
   ],
   manifest: {
     name: 'MiniServices by ibaragi',
-    lang: 'ja'
+    lang: 'ja',
+    short_name: 'MbI',
+    title: 'MiniServices',
+    'og:title': 'MiniServices',
+    description: 'MiniServices',
+    'og:description': 'MiniServices',
+    theme_color: '#ffffff',
+    background_color: '#ffffff'
   },
   /*
   ** Axios module configuration
