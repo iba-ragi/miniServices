@@ -1,14 +1,14 @@
 <template>
   <section class="container">
     <div>
-      <logo/>
+      <!-- <logo/> -->
       <h1 class="title">
-        miniServices
+        Hello, Kamome
       </h1>
       <h2 class="subtitle">
-        by ibragi
+        ALL 100!!
       </h2>
-      <div class="links">
+      <!-- <div class="links">
         <a
           href="https://nuxtjs.org/"
           target="_blank"
@@ -19,7 +19,7 @@
           target="_blank"
           rel="noopener"
           class="button--grey">GitHub</a>
-      </div>
+      </div> -->
     </div>
   </section>
 </template>
