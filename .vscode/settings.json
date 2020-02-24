@@ -1,0 +1,16 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#00fd873b"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    // ".prettierrc": true,
+    ".watchmanconfig": true,
+    "yarn.lock": true,
+    "node_modules": true
+  },
+  "files.watcherExclude": {
+    ".nuxt/": true
+  }
+}
